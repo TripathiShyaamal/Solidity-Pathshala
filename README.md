@@ -1,3 +1,4 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Vikash-8090-Yadav/Solidity-Pathshala)
 # <p align = "center"> Solidity-Pathshala </p>
 <br>
 
@@ -38,7 +39,7 @@
 
 ##  About Solidity-Pathshala
 
-The one place for the smart contract developer to showcase their ideas and code .This repo will have all the smart contract written in the remix ide .It contains all the source code with  the screen shot.
+The one place for smart contract developers to showcase their ideas and code. This repo will have all the smart contract written in the remix IDE. It contains all the source code with the screen shot.
   
 ## How to Contribute?
 
@@ -96,8 +97,12 @@ git merge upstream/main
 
 **8.** Stage your changes and commit:
 
+⚠️ **Make sure** not to commit `package.json` or `package-lock.json` file
+
+⚠️ **Make sure** not to run the commands ```git add .``` or ```git add *```. Instead, stage your changes for each file/folder
+
 ```bash
-git add .
+git add file/folder
 ```
 
 ```bash

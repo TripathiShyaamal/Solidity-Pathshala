@@ -30,7 +30,10 @@
 
 ### This project is a part of following Open Source Programs</h2>
 
+
 <div align="center" >
+ 
+ ![Hack](https://user-images.githubusercontent.com/85225156/206849312-2bb41d63-6869-4c02-bcb5-8cdf0118f1e5.png)
 
  <img src="./Images/Hsoc22Logo.png" width="20%">
  &nbsp; &nbsp; &nbsp;
@@ -120,6 +123,19 @@ git push origin YourBranchName
 **11.** **Congratulations!** You've made your first contribution! 🙌🏼
 
 </br>
+
+### How to Setup Locally 
+
+**1.** Follow the [PR STEPS](https://github.com/Vikash-8090-Yadav/Solidity-Pathshala#how-to-make-a-pull-request) , after   cloning repo in your local system 
+
+
+**2.** You  can copy  and pate the code in the Remix ide https://remix.ethereum.org/
+
+
+**3.** If u don't know how to use the remix check this , [How to use Remix Ide ](https://github.com/Vikash-8090-Yadav/Solidity-Pathshala/blob/main/Blog/How%20to%20use%20remix%20IDE/How%20to%20use%20remix.ide.md)
+
+
+**4.** Congratulations 🙌🏼 , You have setup the Solidity programme in your PC ,It's time to check the code and Raise a PR 
 
 ### Project Contributors
 <a href="https://github.com/Vikash-8090-Yadav/Solidity-Pathshala/graphs/contributors">
